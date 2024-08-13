@@ -1,6 +1,6 @@
-Measuring Consolidation of DNS and Web Hosting Providers and Percentage of In-bailiwick Servers
 
-## Overview
+
+## Measuring Consolidation of DNS and Web Hosting Providers and Percentage of In-bailiwick Servers
 In this project, you will reproduce and extend some of the measurements in the networking research paper "[Measuring the Consolidation of DNS and Web Hosting Providers
 ](https://arxiv.org/pdf/2110.15345.pdf)."
 

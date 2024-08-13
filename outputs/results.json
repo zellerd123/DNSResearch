@@ -1,0 +1,172 @@
+{
+    "inbailwick_result": 11.52,
+    "inbailwick_partial_percent": 4.14,
+    "top_unreachable_percents": [
+        [
+            "AMAZON-02, US",
+            24.1
+        ],
+        [
+            "CLOUDFLARENET, US",
+            23.7
+        ],
+        [
+            "GOOGLE, US",
+            4.6
+        ],
+        [
+            "SECURITYSERVICES, US",
+            2.1
+        ],
+        [
+            "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+            1.9
+        ],
+        [
+            "AKAMAI-ASN2, NL",
+            1.7
+        ],
+        [
+            "NSONE, US",
+            1.2
+        ],
+        [
+            "TIGGEE, US",
+            1.1
+        ],
+        [
+            "GODADDY-DNS, DE",
+            0.5
+        ],
+        [
+            "ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN",
+            0.4
+        ]
+    ],
+    "top_unreachable_numbers": [
+        [
+            "AMAZON-02, US",
+            2391
+        ],
+        [
+            "CLOUDFLARENET, US",
+            2344
+        ],
+        [
+            "GOOGLE, US",
+            454
+        ],
+        [
+            "SECURITYSERVICES, US",
+            211
+        ],
+        [
+            "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+            189
+        ],
+        [
+            "AKAMAI-ASN2, NL",
+            164
+        ],
+        [
+            "NSONE, US",
+            121
+        ],
+        [
+            "TIGGEE, US",
+            111
+        ],
+        [
+            "GODADDY-DNS, DE",
+            54
+        ],
+        [
+            "ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN",
+            39
+        ]
+    ],
+    "top_affected_percents": [
+        [
+            "AMAZON-02, US",
+            26.2
+        ],
+        [
+            "CLOUDFLARENET, US",
+            24.6
+        ],
+        [
+            "GOOGLE, US",
+            4.8
+        ],
+        [
+            "SECURITYSERVICES, US",
+            3.4
+        ],
+        [
+            "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+            2.4
+        ],
+        [
+            "AKAMAI-ASN2, NL",
+            6.7
+        ],
+        [
+            "NSONE, US",
+            3.8
+        ],
+        [
+            "TIGGEE, US",
+            1.7
+        ],
+        [
+            "GODADDY-DNS, DE",
+            1.0
+        ],
+        [
+            "ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN",
+            0.9
+        ]
+    ],
+    "top_affected_numbers": [
+        [
+            "AMAZON-02, US",
+            2593
+        ],
+        [
+            "CLOUDFLARENET, US",
+            2442
+        ],
+        [
+            "GOOGLE, US",
+            476
+        ],
+        [
+            "SECURITYSERVICES, US",
+            338
+        ],
+        [
+            "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+            242
+        ],
+        [
+            "AKAMAI-ASN2, NL",
+            661
+        ],
+        [
+            "NSONE, US",
+            378
+        ],
+        [
+            "TIGGEE, US",
+            167
+        ],
+        [
+            "GODADDY-DNS, DE",
+            95
+        ],
+        [
+            "ALIBABA-CN-NET Hangzhou Alibaba Advertising Co.,Ltd., CN",
+            87
+        ]
+    ]
+}

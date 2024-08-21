@@ -3,6 +3,7 @@
 ## Measuring Consolidation of DNS and Percentage of In-Bailiwick Servers
 
 
+This paper continues research and updates Tranco domain ranking statistics from September 2022 to March 2024. Originally published by Synthia Wang, Kyle MacMillan, Brennan Schaffner, Marshini Chetty, and Nick Feamster from the University of Chicago. Read their original paper [here.](https://arxiv.org/pdf/2110.15345)
 
 
 
